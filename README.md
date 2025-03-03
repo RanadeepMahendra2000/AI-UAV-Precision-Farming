@@ -86,6 +86,6 @@ This project introduces an **AI-powered UAV (drone) system** that **automates th
 ## 📌 Installation & Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/AI-UAV-Precision-Farming.git
+git clone https://github.com/RanadeepMahendra2000/AI-UAV-Precision-Farming.git
 cd AI-UAV-Precision-Farming
 pip install -r requirements.txt
